@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.fitnessclub.MainActivity">
+
+    <item
+        android:id="@+id/action_delete_list_data"
+        android:title="@string/delete_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_re_create_database"
+        android:title="@string/recreate_list"
+        app:showAsAction="never" />
+
+</menu>

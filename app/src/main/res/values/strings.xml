@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HITT IT</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all">delete all</string>
+    <string name="recreate_list">recreate list</string>
+    <string name="courses">courses</string>
+    <string name="trainers">trainers</string>
+    <string name="course_title">course title</string>
+    <string name="course_trainer">course trainer</string>
+    <string name="dialog_course_title">Course</string>
+    <string name="dialog_trainer_title">Trainer</string>
+</resources>
